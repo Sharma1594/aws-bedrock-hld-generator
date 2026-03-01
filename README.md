@@ -99,8 +99,6 @@ aws-bedrock-hld-generator/
 ├── sample-output/
 │   └── generated_HLD.html
 │
-├── architecture-diagram.png
-├── requirements.txt
 └── README.md
 ```
 
