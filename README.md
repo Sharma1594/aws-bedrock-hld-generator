@@ -206,9 +206,3 @@ This project demonstrates hands-on experience with:
 - Multi-model selection support
 - Streaming LLM responses
 - CI/CD deployment pipeline
-
----
-
-# 👨‍💻 Author
-
-Built as a hands-on Generative AI + AWS architecture showcase project.
